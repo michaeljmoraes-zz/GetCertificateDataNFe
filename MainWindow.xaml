@@ -1,0 +1,29 @@
+﻿<Window x:Class="GetCertificateData.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GetCertificateData"
+        mc:Ignorable="d"
+        Title="Get Certificates Data" Height="345.937" Width="551.155">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="257*"/>
+            <RowDefinition Height="58*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="btnCarregarCertificados" Content="Carregar Certificados" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="523" Height="37" Click="btnCarregarCertificados_Click"/>
+        <Label Content="Serial Number:" HorizontalAlignment="Left" Margin="13,10,0,0" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right" Height="26"/>
+        <TextBox x:Name="txtSerialNumber" HorizontalAlignment="Left" Height="23" Margin="118,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="208"/>
+        <Label Content="CNPJ:" HorizontalAlignment="Left" Margin="13,38,0,0" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right" Height="26"/>
+        <TextBox x:Name="txtCNPJ" HorizontalAlignment="Left" Height="23" Margin="118,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="208"/>
+        <Label Content="Razão Social:" HorizontalAlignment="Left" Margin="13,66,0,0" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right" Height="26"/>
+        <TextBox x:Name="txtRazaoSocial" HorizontalAlignment="Left" Height="23" Margin="118,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="415"/>
+        <Label Content="UF" HorizontalAlignment="Left" Margin="13,118,0,0" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right" Height="26"/>
+        <TextBox x:Name="txtUF" HorizontalAlignment="Left" Height="23" Margin="118,121,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="32"/>
+        <Label Content="Cidade:" HorizontalAlignment="Left" Margin="13,146,0,0" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right" Height="26"/>
+        <TextBox x:Name="txtCidade" HorizontalAlignment="Left" Height="23" Margin="118,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="208"/>
+        <Label Content="Tipo Certificado:" HorizontalAlignment="Left" Margin="13,174,0,0" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Right" Height="26"/>
+        <TextBox x:Name="txtTipoCertificado" HorizontalAlignment="Left" Height="23" Margin="118,177,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="208"/>
+        <Label x:Name="lblDescUF" Content="UF" HorizontalAlignment="Left" Margin="155,118,0,0" VerticalAlignment="Top" Width="29" HorizontalContentAlignment="Right" Height="26"/>
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+D:\Clientes\FabricaSoftware\Workana\Download NFe - Wesley Adriano Pinheiro\GetCertificateData\bin\Debug\GetCertificateData.exe
+D:\Clientes\FabricaSoftware\Workana\Download NFe - Wesley Adriano Pinheiro\GetCertificateData\bin\Debug\GetCertificateData.pdb
+D:\Clientes\FabricaSoftware\Workana\Download NFe - Wesley Adriano Pinheiro\GetCertificateData\obj\Debug\GetCertificateData.csprojResolveAssemblyReference.cache
+D:\Clientes\FabricaSoftware\Workana\Download NFe - Wesley Adriano Pinheiro\GetCertificateData\obj\Debug\MainWindow.g.cs
+D:\Clientes\FabricaSoftware\Workana\Download NFe - Wesley Adriano Pinheiro\GetCertificateData\obj\Debug\App.g.cs
+D:\Clientes\FabricaSoftware\Workana\Download NFe - Wesley Adriano Pinheiro\GetCertificateData\obj\Debug\GetCertificateData_MarkupCompile.cache
+D:\Clientes\FabricaSoftware\Workana\Download NFe - Wesley Adriano Pinheiro\GetCertificateData\obj\Debug\GetCertificateData_MarkupCompile.lref
+D:\Clientes\FabricaSoftware\Workana\Download NFe - Wesley Adriano Pinheiro\GetCertificateData\obj\Debug\MainWindow.baml
+D:\Clientes\FabricaSoftware\Workana\Download NFe - Wesley Adriano Pinheiro\GetCertificateData\obj\Debug\GetCertificateData.g.resources
+D:\Clientes\FabricaSoftware\Workana\Download NFe - Wesley Adriano Pinheiro\GetCertificateData\obj\Debug\GetCertificateData.Properties.Resources.resources
+D:\Clientes\FabricaSoftware\Workana\Download NFe - Wesley Adriano Pinheiro\GetCertificateData\obj\Debug\GetCertificateData.csproj.GenerateResource.Cache
+D:\Clientes\FabricaSoftware\Workana\Download NFe - Wesley Adriano Pinheiro\GetCertificateData\obj\Debug\GetCertificateData.exe
+D:\Clientes\FabricaSoftware\Workana\Download NFe - Wesley Adriano Pinheiro\GetCertificateData\obj\Debug\GetCertificateData.pdb
